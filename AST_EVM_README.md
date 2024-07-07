@@ -6,6 +6,9 @@ For this we have created three variables:
 2) token_Abbrev which stores the abbrevation of the token
 3) total_Supply which stores the total supply of the tokens
 
+//MAPING
+Then we mapped the variables and returned the balances.
+
 // MINT FUNCTION
 After this we have created a MINT function which takes (input) the 
 1) _address in which token are to be minted and
